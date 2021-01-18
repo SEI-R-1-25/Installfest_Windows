@@ -316,3 +316,11 @@ mongod --version
 ```
 
 ## Resources
+
+- [Installing Heroku CLI](https://dev.to/wrightdotclick/heroku-cli-on-wsl-26fp)
+
+- [Github SSH Keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+- [Wsl Setup](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+- [Zsh/ Oh-My-Zsh](https://blog.nillsf.com/index.php/2020/02/17/setting-up-wsl2-windows-terminal-and-oh-my-zsh/)
