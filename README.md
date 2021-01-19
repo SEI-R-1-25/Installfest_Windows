@@ -217,6 +217,15 @@ Once downloaded, go ahead and run the installer. Once the installer completes, o
 
 Once you open VsCode, you may be prompted to install the Remote WSL Extension. Go ahead and do so. If you are not prompted, you can download it **[HERE](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)**.
 
+Type in `code .` in your terminal.
+This should open a VsCode window.
+
+If the above does not work, open VsCode which will be located in your Applications folder. Once a VsCode window opens, press and hold cmd+shift+p to open the command pallete. In the command pallate, type in path and an option named:
+
+Shell Command: Install code command in PATH.
+
+Select this option and reconfirm the code . command in your terminal.
+
 ## Installing NodeJS
 
 NodeJS is a runtime environment that allows us to run javascript outside of a browser.
