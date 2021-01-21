@@ -1,4 +1,4 @@
-# Windows InstallFest
+# Installfest : Windows Users
 
 ![LinuxVWindows](https://www.psychz.net/content/apr13/windows-vs-linux.png)
 
